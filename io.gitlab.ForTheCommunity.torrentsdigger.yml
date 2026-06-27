@@ -54,8 +54,8 @@ modules:
     sources:
       - type: git
         url: https://gitlab.com/ForTheCommunity/torrentsdigger.git
-        commit: 989c9102fb36b6bfb43520e6d10b481448c54351
+        commit: 177ad28e41735a6d28109b13744ecb26193ebecf
       - generated/sources/cargo.json
       - generated/sources/pubspec.json
     modules:
-      - generated/modules/flutter-sdk-3.44.2.json
+      - generated/modules/flutter-sdk-3.44.4.json
